@@ -1,0 +1,29 @@
+body{
+   padding:20px;
+   
+   
+   
+    background-image: url("game.jpg");
+   background-repeat: no-repeat;
+   background-size:50%;
+   background-position:top;
+   background-color:lightsalmon;
+   background-blend-mode:screen;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 20px;
+   
+   
+   
+   
+
+}
+
+.title{
+    color:firebrick;
+    font-size: 40px;
+ 
+}
+
+
+    
+
